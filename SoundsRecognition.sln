@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SoundsRecognition", "SoundsRecognition\SoundsRecognition.pyproj", "{DAE2EAFB-7FDF-488E-865D-E8E4A69DE0FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAE2EAFB-7FDF-488E-865D-E8E4A69DE0FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAE2EAFB-7FDF-488E-865D-E8E4A69DE0FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D82A70DE-C954-4479-986E-22C20E042C3C}
+	EndGlobalSection
+EndGlobal
